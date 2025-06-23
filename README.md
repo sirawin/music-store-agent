@@ -1,4 +1,3 @@
-note: this got low accuracy (66%) -> pivoting to GraphRAG as shown reduction in inference time, infra cost, and hallucination. [source](https://www.falkordb.com/news-updates/data-retrieval-graphrag-ai-agents/)
 ## About This Project
 
 This project is a reimplementation of [[Multi-Agent-AI-System](https://github.com/FareedKhan-dev/Multi-Agent-AI-System)] by FareedKhan-dev.
